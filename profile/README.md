@@ -1,6 +1,6 @@
 # 🏢 **DevOpsLabs**
 
-Welcome to the GitHub home of **Your Organization**. This README provides an overview of our tech stack and key repositories.
+Welcome to the GitHub home of **DevOpsLabs**. This README provides an overview of our tech stack and key repositories.
 
 ---
 
