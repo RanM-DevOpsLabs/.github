@@ -9,6 +9,7 @@ Welcome to the GitHub home of **DevOpsLabs**. This README provides an overview o
 Here are the core technologies we use:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
@@ -17,6 +18,7 @@ Here are the core technologies we use:
 | Repository | Description |
 |------------|-------------|
 | [`KubernetesLabs`](https://github.com/RanM-DevOpsLabs/KubernetesLabs) | Terraform modules and infrastructure-as-code scripts |
+| [`TerraformLabs`](https://github.com/RanM-DevOpsLabs/TerraformLabs) | Terraform modules and infrastructure-as-code scripts |
 
 ---
 
