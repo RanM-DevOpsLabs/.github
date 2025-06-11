@@ -17,7 +17,7 @@ Here are the core technologies we use:
 
 | Repository | Description |
 |------------|-------------|
-| [`KubernetesLabs`](https://github.com/RanM-DevOpsLabs/KubernetesLabs) | Terraform modules and infrastructure-as-code scripts |
+| [`KubernetesLabs`](https://github.com/RanM-DevOpsLabs/KubernetesLabs) | k8s components and network |
 | [`TerraformLabs`](https://github.com/RanM-DevOpsLabs/TerraformLabs) | Terraform modules and infrastructure-as-code scripts |
 
 ---
