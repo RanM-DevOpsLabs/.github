@@ -19,6 +19,7 @@ Here are the core technologies we use:
 |------------|-------------|
 | [`KubernetesLabs`](https://github.com/RanM-DevOpsLabs/KubernetesLabs) | k8s network, components and tools |
 | [`TerraformLabs`](https://github.com/RanM-DevOpsLabs/TerraformLabs) | Terraform modules and infrastructure-as-code scripts |
+| [`GenAI-Labs`](https://github.com/RanM-DevOpsLabs/GenAI-Labs) | Python SDK small MCP Server |
 
 ---
 
