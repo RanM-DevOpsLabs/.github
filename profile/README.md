@@ -1,12 +1,12 @@
 # 🏢 **DevOpsLabs**
 
-Welcome to the GitHub home of **DevOpsLabs**. This README provides an overview of our tech stack and key repositories.
+Welcome to the home of all my hands-on practices and guides. Hope you'd like it here.
 
 ---
 
 ## 🧱 Tech Stack
 
-Here are the core technologies we use:
+Here are the core technologies I use:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
