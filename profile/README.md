@@ -22,7 +22,7 @@ Here are the core technologies I use:
 | [`KubernetesLabs`](https://github.com/RanM-DevOpsLabs/KubernetesLabs) | k8s network, components and tools |
 | [`TerraformLabs`](https://github.com/RanM-DevOpsLabs/TerraformLabs) | Terraform modules and infrastructure-as-code scripts |
 | [`GitOpsLabs`](https://github.com/RanM-DevOpsLabs/GitOpsLabs) | GitOps with ArgoCD |
-| [`MonitoringLabs`](https://github.com/RanM-DevOpsLabs/MonitoringLabs) | Full observability implementations |
+| [`ObservabilityLabs`](https://github.com/RanM-DevOpsLabs/ObservabilityLabs) | Full observability implementations |
 | [`GenAI-Labs`](https://github.com/RanM-DevOpsLabs/GenAI-Labs) | Python SDK small MCP Server |
 
 ---
