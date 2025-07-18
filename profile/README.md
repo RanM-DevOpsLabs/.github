@@ -27,7 +27,7 @@ Here are the core technologies I use:
 | [`GitOpsLabs`](https://github.com/RanM-DevOpsLabs/GitOpsLabs) | GitOps with ArgoCD |
 | [`ObservabilityLabs`](https://github.com/RanM-DevOpsLabs/ObservabilityLabs) | Full observability implementations |
 | [`CI-CD-Labs`](https://github.com/RanM-DevOpsLabs/CI-CD-Labs) | Streamlining CI/CD processes |
-| [`NetworkingLabs`](https://github.com/RanM-DevOpsLabs/NetworkingLabs) | Various Networking Concepts & Handson |
+| [`NetworkingLabs`](https://github.com/RanM-DevOpsLabs/NetworkingLabs) | Various Networking Concepts Hands-On |
 | [`GenAI-Labs`](https://github.com/RanM-DevOpsLabs/GenAI-Labs) | Python SDK small MCP Server |
 
 ---
