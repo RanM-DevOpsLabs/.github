@@ -30,6 +30,4 @@ Here are the core technologies I use:
 | [`NetworkingLabs`](https://github.com/RanM-DevOpsLabs/NetworkingLabs) | Various Networking Concepts Hands-On |
 | [`GenAI-Labs`](https://github.com/RanM-DevOpsLabs/GenAI-Labs) | Python SDK small MCP Server |
 
----
 
-✍️ *Feel free to contribute or reach out to the team for access or questions!*
